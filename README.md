@@ -7,4 +7,6 @@
 
 第三步：关闭华为手机的电池管理 因为电池管理会在后台自动杀死kitsunebi软件、Push Notifications Fixer和Whatsapp，这些软件被杀死以后，你就无法正常使用Whatsapp了。点击手机“设置”——“电池”——“启动管理”，把上面三个软件都设置为“手动管理”，并勾选“允许自启动”和“允许后台活动”。具体见下面的图片：
 
-第四步：关闭高耗电提醒并给予高权限 华为手机总是错误的给予kitsunebi软件、Push Notifications Fixer和Whatsapp高耗电提醒，我们需要手动关闭，并给予高的权限，否则Whatsapp信息是无法及时接收的，点击手机“设置”——“应用和通知”——“权限管理”，分别找到kitsunebi软件、Push Notifications Fixer和Whatsapp这个三个应用，并关闭“高耗电提醒”，最后给予Whatsapp高的通知和应用权限，具体见下列图片 具体教程请访问：blog.zfast.in
+第四步：关闭高耗电提醒并给予高权限 华为手机总是错误的给予kitsunebi软件、Push Notifications Fixer和Whatsapp高耗电提醒，我们需要手动关闭，并给予高的权限，否则Whatsapp信息是无法及时接收的，点击手机“设置”——“应用和通知”——“权限管理”，分别找到kitsunebi软件、Push Notifications Fixer和Whatsapp这个三个应用，并关闭“高耗电提醒”，最后给予Whatsapp高的通知和应用权限，具体见下列图片 
+
+具体教程请访问：blog.zfast.in
